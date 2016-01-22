@@ -1,7 +1,5 @@
 'use strict';
-/**
- * Shadman
- */
+
 /**
  * Module Dependencies
  */
