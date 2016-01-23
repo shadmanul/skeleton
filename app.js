@@ -1,6 +1,6 @@
 'use strict';
 /**
- * Md Shadmanul Islam
+ * Shadmanul
  */
 /**
  * Module Dependencies
